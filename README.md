@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/DrMattG/ESmanubot/tree/gh-pages) branch hosts the contents of this directory at <https://DrMattG.github.io/ESmanubot/>.
-The permalink for this webpage version is <https://DrMattG.github.io/ESmanubot/v/243f2151006b7e6df4634c4477c641adc2693fd9/>.
+The permalink for this webpage version is <https://DrMattG.github.io/ESmanubot/v/3559fec6929a0903797fb4f7fd7d2d71305e03d4/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://DrMattG.github.io/ESmanubot/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`243f2151006b7e6df4634c4477c641adc2693fd9`](https://github.com/DrMattG/ESmanubot/commit/243f2151006b7e6df4634c4477c641adc2693fd9).
+[`3559fec6929a0903797fb4f7fd7d2d71305e03d4`](https://github.com/DrMattG/ESmanubot/commit/3559fec6929a0903797fb4f7fd7d2d71305e03d4).
