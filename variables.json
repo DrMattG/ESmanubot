@@ -1,6 +1,6 @@
 {
   "pandoc": {
-    "title": "Manuscript Title",
+    "title": "An Ecosystem of Open Source Tools for Evidence Synthesis in R",
     "keywords": [
       "markdown",
       "publishing",
@@ -9,10 +9,10 @@
     "lang": "en-US",
     "date-meta": "2022-05-27",
     "author-meta": [
-      "John Doe",
-      "Jane Roe"
+      "Neal Haddaway",
+      "Matthew Grainger"
     ],
-    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Manuscript Title\" />\n<meta name=\"citation_title\" content=\"Manuscript Title\" />\n<meta property=\"og:title\" content=\"Manuscript Title\" />\n<meta property=\"twitter:title\" content=\"Manuscript Title\" />\n<meta name=\"dc.date\" content=\"2022-05-27\" />\n<meta name=\"citation_publication_date\" content=\"2022-05-27\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"John Doe\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<meta name=\"twitter:creator\" content=\"@johndoe\" />\n<meta name=\"citation_author\" content=\"Jane Roe\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_institution\" content=\"Department of Whatever, University of Something\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<link rel=\"canonical\" href=\"https://DrMattG.github.io/ESmanubot/\" />\n<meta property=\"og:url\" content=\"https://DrMattG.github.io/ESmanubot/\" />\n<meta property=\"twitter:url\" content=\"https://DrMattG.github.io/ESmanubot/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://DrMattG.github.io/ESmanubot/\" />\n<meta name=\"citation_pdf_url\" content=\"https://DrMattG.github.io/ESmanubot/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://DrMattG.github.io/ESmanubot/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://DrMattG.github.io/ESmanubot/v/243f2151006b7e6df4634c4477c641adc2693fd9/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://DrMattG.github.io/ESmanubot/v/243f2151006b7e6df4634c4477c641adc2693fd9/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://DrMattG.github.io/ESmanubot/v/243f2151006b7e6df4634c4477c641adc2693fd9/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->",
+    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"An Ecosystem of Open Source Tools for Evidence Synthesis in R\" />\n<meta name=\"citation_title\" content=\"An Ecosystem of Open Source Tools for Evidence Synthesis in R\" />\n<meta property=\"og:title\" content=\"An Ecosystem of Open Source Tools for Evidence Synthesis in R\" />\n<meta property=\"twitter:title\" content=\"An Ecosystem of Open Source Tools for Evidence Synthesis in R\" />\n<meta name=\"dc.date\" content=\"2022-05-27\" />\n<meta name=\"citation_publication_date\" content=\"2022-05-27\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Neal Haddaway\" />\n<meta name=\"citation_author_institution\" content=\"Leibniz-Centre for Agricultural Landscape Research (ZALF), Müncheberg, Germany\" />\n<meta name=\"citation_author_institution\" content=\"African Centre for Evidence, University of Johannesburg, Johannesburg, South Africa\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-3902-2234\" />\n<meta name=\"twitter:creator\" content=\"@nealhaddaway\" />\n<meta name=\"citation_author\" content=\"Matthew Grainger\" />\n<meta name=\"citation_author_institution\" content=\"Norwegian Institute for Nature Research, Trondheim, Norway\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-8426-6495\" />\n<link rel=\"canonical\" href=\"https://DrMattG.github.io/ESmanubot/\" />\n<meta property=\"og:url\" content=\"https://DrMattG.github.io/ESmanubot/\" />\n<meta property=\"twitter:url\" content=\"https://DrMattG.github.io/ESmanubot/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://DrMattG.github.io/ESmanubot/\" />\n<meta name=\"citation_pdf_url\" content=\"https://DrMattG.github.io/ESmanubot/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://DrMattG.github.io/ESmanubot/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://DrMattG.github.io/ESmanubot/v/3559fec6929a0903797fb4f7fd7d2d71305e03d4/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://DrMattG.github.io/ESmanubot/v/3559fec6929a0903797fb4f7fd7d2d71305e03d4/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://DrMattG.github.io/ESmanubot/v/3559fec6929a0903797fb4f7fd7d2d71305e03d4/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->",
     "bibliography": [
       "content/manual-references.json"
     ],
@@ -26,46 +26,50 @@
     "randomize_author_order": false,
     "authors": [
       {
-        "github": "johndoe",
-        "name": "John Doe",
-        "initials": "JD",
-        "orcid": "XXXX-XXXX-XXXX-XXXX",
-        "twitter": "johndoe",
-        "email": "john.doe@something.com",
+        "github": "nealhaddaway",
+        "name": "Neal Haddaway",
+        "initials": "NRH",
+        "orcid": "0000-0003-3902-2234",
+        "twitter": "nealhaddaway",
+        "email": "neal.haddaway@sei.org",
         "affiliations": [
-          "Department of Something, University of Whatever"
+          "Leibniz-Centre for Agricultural Landscape Research (ZALF), Müncheberg, Germany",
+          "African Centre for Evidence, University of Johannesburg, Johannesburg, South Africa"
         ],
         "funders": [
           "Grant XXXXXXXX"
         ],
         "affiliation_numbers": [
-          1
+          1,
+          2
         ]
       },
       {
-        "github": "janeroe",
-        "name": "Jane Roe",
-        "initials": "JR",
-        "orcid": "XXXX-XXXX-XXXX-XXXX",
-        "email": "jane.roe@whatever.edu",
+        "github": "DrMattG",
+        "name": "Matthew Grainger",
+        "initials": "MJG",
+        "orcid": "0000-0001-8426-6495",
+        "email": "Matthew.grainger@nina.no",
         "affiliations": [
-          "Department of Something, University of Whatever",
-          "Department of Whatever, University of Something"
+          "Norwegian Institute for Nature Research, Trondheim, Norway"
         ],
         "affiliation_numbers": [
-          1,
-          2
+          3
         ]
       }
     ],
     "affiliations": [
       {
-        "affiliation": "Department of Something, University of Whatever",
+        "affiliation": "Leibniz-Centre for Agricultural Landscape Research (ZALF), Müncheberg, Germany",
         "affiliation_number": 1
       },
       {
-        "affiliation": "Department of Whatever, University of Something",
+        "affiliation": "African Centre for Evidence, University of Johannesburg, Johannesburg, South Africa",
         "affiliation_number": 2
+      },
+      {
+        "affiliation": "Norwegian Institute for Nature Research, Trondheim, Norway",
+        "affiliation_number": 3
       }
     ],
     "ci_source": {
@@ -73,19 +77,19 @@
       "repo_slug": "DrMattG/ESmanubot",
       "repo_owner": "DrMattG",
       "repo_name": "ESmanubot",
-      "commit": "243f2151006b7e6df4634c4477c641adc2693fd9",
-      "triggering_commit": "243f2151006b7e6df4634c4477c641adc2693fd9",
-      "build_url": "https://github.com/DrMattG/ESmanubot/commit/243f2151006b7e6df4634c4477c641adc2693fd9/checks",
-      "job_url": "https://github.com/DrMattG/ESmanubot/actions/runs/2396717255"
+      "commit": "3559fec6929a0903797fb4f7fd7d2d71305e03d4",
+      "triggering_commit": "3559fec6929a0903797fb4f7fd7d2d71305e03d4",
+      "build_url": "https://github.com/DrMattG/ESmanubot/commit/3559fec6929a0903797fb4f7fd7d2d71305e03d4/checks",
+      "job_url": "https://github.com/DrMattG/ESmanubot/actions/runs/2396800685"
     },
     "html_url": "https://DrMattG.github.io/ESmanubot/",
     "pdf_url": "https://DrMattG.github.io/ESmanubot/manuscript.pdf",
-    "html_url_versioned": "https://DrMattG.github.io/ESmanubot/v/243f2151006b7e6df4634c4477c641adc2693fd9/",
-    "pdf_url_versioned": "https://DrMattG.github.io/ESmanubot/v/243f2151006b7e6df4634c4477c641adc2693fd9/manuscript.pdf",
+    "html_url_versioned": "https://DrMattG.github.io/ESmanubot/v/3559fec6929a0903797fb4f7fd7d2d71305e03d4/",
+    "pdf_url_versioned": "https://DrMattG.github.io/ESmanubot/v/3559fec6929a0903797fb4f7fd7d2d71305e03d4/manuscript.pdf",
     "manubot_version": "0.5.2",
     "rootstock_commit": "9a22fab4497f80f501ea361d028f26888ad9d5a0",
     "manuscript_stats": {
-      "word_count": 252
+      "word_count": 308
     }
   }
 }
