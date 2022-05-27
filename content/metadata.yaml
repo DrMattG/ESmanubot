@@ -1,26 +1,27 @@
 ---
-title: "Manuscript Title"
+title: "An Ecosystem of Open Source Tools for Evidence Synthesis in R"
 keywords:
   - markdown
   - publishing
   - manubot
 lang: en-US
 authors:
-  - github: johndoe
-    name: John Doe
-    initials: JD
-    orcid: XXXX-XXXX-XXXX-XXXX
-    twitter: johndoe
-    email: john.doe@something.com
+  - github: nealhaddaway
+    name: Neal Haddaway 
+    initials: NRH
+    orcid: 0000-0003-3902-2234
+    twitter: nealhaddaway
+    email: neal.haddaway@sei.org
     affiliations:
-      - Department of Something, University of Whatever
+      - Leibniz-Centre for Agricultural Landscape Research (ZALF), Müncheberg, Germany
+      - African Centre for Evidence, University of Johannesburg, Johannesburg, South Africa
     funders:
       - Grant XXXXXXXX
-  - github: janeroe
-    name: Jane Roe
-    initials: JR
-    orcid: XXXX-XXXX-XXXX-XXXX
-    email: jane.roe@whatever.edu
+  - github: DrMattG
+    name: Matthew Grainger
+    initials: MJG
+    orcid: 0000-0001-8426-6495
+    email: Matthew.grainger@nina.no
     affiliations:
-      - Department of Something, University of Whatever
-      - Department of Whatever, University of Something
+      - Norwegian Institute for Nature Research, Trondheim, Norway
+  
