@@ -1,2 +1,14 @@
 content/02.introduction.md:1:sythesis
 content/02.introduction.md:3:MEDLINE
+content/02.introduction.md:5:rmetaverse
+content/02.introduction.md:7:FOSS
+content/02.introduction.md:18:CJ
+content/02.introduction.md:18:Lortie’s
+content/02.introduction.md:22:metagear
+content/02.introduction.md:24:revtools
+content/02.introduction.md:26:litsearchr
+content/02.introduction.md:30:ESH
+content/02.introduction.md:31:ESMARConf
+content/02.introduction.md:39:CRAN
+content/02.introduction.md:39:rmetaverse
+content/02.introduction.md:46:rmetaverse

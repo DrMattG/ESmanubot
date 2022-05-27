@@ -41,9 +41,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://DrMattG.github.io/ESmanubot/" />
   <meta name="citation_pdf_url" content="https://DrMattG.github.io/ESmanubot/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://DrMattG.github.io/ESmanubot/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://DrMattG.github.io/ESmanubot/v/3559fec6929a0903797fb4f7fd7d2d71305e03d4/" />
-  <meta name="manubot_html_url_versioned" content="https://DrMattG.github.io/ESmanubot/v/3559fec6929a0903797fb4f7fd7d2d71305e03d4/" />
-  <meta name="manubot_pdf_url_versioned" content="https://DrMattG.github.io/ESmanubot/v/3559fec6929a0903797fb4f7fd7d2d71305e03d4/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://DrMattG.github.io/ESmanubot/v/2b5e5486a1f58824d9c41968a3ff58fea1927305/" />
+  <meta name="manubot_html_url_versioned" content="https://DrMattG.github.io/ESmanubot/v/2b5e5486a1f58824d9c41968a3ff58fea1927305/" />
+  <meta name="manubot_pdf_url_versioned" content="https://DrMattG.github.io/ESmanubot/v/2b5e5486a1f58824d9c41968a3ff58fea1927305/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -65,9 +65,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://DrMattG.github.io/ESmanubot/v/3559fec6929a0903797fb4f7fd7d2d71305e03d4/))
+([permalink](https://DrMattG.github.io/ESmanubot/v/2b5e5486a1f58824d9c41968a3ff58fea1927305/))
 was automatically generated
-from [DrMattG/ESmanubot@3559fec](https://github.com/DrMattG/ESmanubot/tree/3559fec6929a0903797fb4f7fd7d2d71305e03d4)
+from [DrMattG/ESmanubot@2b5e548](https://github.com/DrMattG/ESmanubot/tree/2b5e5486a1f58824d9c41968a3ff58fea1927305)
 on May 27, 2022.
 </em></small>
 
@@ -106,6 +106,59 @@ on May 27, 2022.
 # Evidence sythesis
 
 Evidence synthesis (e.g., systematic review, systematic maps, meta-analysis) is rapidly becoming a mainstream set of scientific methods with particular relevance for policy and decision makers. Estimates from 2014 suggest that on MEDLINE alone there were 8000 systematic reviews indexed annually, this represented a three-fold increase over the previous decade at the time (@doi.org/10.1371/journal.pmed.1002028). 
+
+## Objectives - introduce ecosystem of evidence synthesis packages and to highlight benefit of meta-package of packages in R for evidence synthesis (namely, rmetaverse)
+
+* Host suite of packages for FOSS evidence synthesis conduct
+
+* Focus on gap filling for needs-based tool design
+
+* Compartmentalise tasks - costs are lower, more choices, costs of package breaking lower, risks of lost effort lower
+
+* Interoperability for transparency, Open data, removing lock-in
+
+## Early history of evidence synthesis packages in R
+
+* Matt’s work on dependencies and earliest packages
+* Build on CJ Lortie’s work
+
+## Beyond meta-analysis
+
+* metagear
+
+* revtools
+
+* litsearchr
+
+## Community of practice
+
+* ESH
+* ESMARConf
+
+## User Interfaces and R (how it works)
+
+## Why meta-packages are useful (pipeline)
+
+## Examples of non-synthesis packages relevant to synthesis
+
+## rmetaverse history (started on CRAN, required package developer buy-in)
+
+## BUT rapid development of field means GitHub versions are more up-to-date and comprehensive
+SO our approach is GitHub collections (somewhat more like a task view but for a pipeline of packages)
+
+## Current assessment (lucid chart)
+
+## Future vision for rmetaverse
+
+* How it would work
+
+* How we can use it to fill gaps
+
+* Interoperability - important section
+
+* Policies etc.
+
+
 
 ## References {.page_break_before}
 
